@@ -1,0 +1,8 @@
+body{
+    background-image:url(images/فضاء\ الفراخ.webp);
+    background-position:center center;
+    background-size: cover;
+}
+.rocketContainer{
+    width:10%;
+}
